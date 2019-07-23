@@ -1,0 +1,116 @@
+body{
+	position: relative;
+    min-height: 100%;
+    top: 0px;
+    margin: 0;
+
+	width: 1000px;
+
+}
+
+.headband{
+	background-color: #8b3952;
+	display: block;
+	width: 1000px;
+	height: 130px;
+}
+
+.c11{
+	margin-top: -30px;
+	padding-left: 20px;
+
+}
+
+.menu{
+	font-family: asap,arial,sans-serif;
+    font-size: 14px;
+    color: #fff;
+    margin-left: 200px;
+    margin-top: -80px;
+}
+
+li{
+    display: inline;
+ }
+
+ a{
+ 	text-decoration: none;
+ 	color: white;
+ }
+.search{
+	background-color: white;
+	border-radius: 3px;
+	padding: 10px;
+	margin-left: 650px;
+	margin-top: -40px;
+	width: 280px;
+	position: relative;
+}
+
+input[type="submit"] 
+{
+	background-image: url("sok-knapp.png");
+}
+
+.stad{
+	margin-left: 220px;
+}
+
+.primarynav{
+	width: auto;
+    padding: 15px 0;
+    display: block;
+    background: #d4dde4;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    font-size: 14px;
+}
+
+.li-1{
+	padding-left: 30px;
+	padding-right: 30px;
+    color: black;
+}
+ 
+.li-1 a {
+ 	color: black;
+ }
+
+.content{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 70%;
+    margin-left: 20px;
+
+}
+
+ .news{
+    color: #fff;
+    width: 300px;
+    height: 40px;
+    display: block;
+    background-color: #80c1bf;
+    border-bottom: 6px solid #578b92;
+    padding: 7px 10px;
+    text-transform: uppercase;
+    margin: 0 0 10px;
+ }
+
+ .flag{
+    width: 300px;
+    text-align: justify;
+ }
+
+
+ .pagang{
+    color: #fff;
+    width: 300px;
+    height: 40px;
+    display: block;
+    background-color: #be516e;
+    border-bottom: 6px solid #8c3a52;
+    padding: 7px 10px;
+    text-transform: uppercase;
+    margin: 0 0 10px;
+ }
