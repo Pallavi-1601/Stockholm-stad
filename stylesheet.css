@@ -3,9 +3,8 @@ body{
     min-height: 100%;
     top: 0px;
     margin: 0;
-
 	width: 1000px;
-
+	align-content: center;
 }
 
 .headband{
@@ -95,6 +94,7 @@ input[type="submit"]
     padding: 7px 10px;
     text-transform: uppercase;
     margin: 0 0 10px;
+    font-size: 17px;
  }
 
  .flag{
@@ -113,4 +113,5 @@ input[type="submit"]
     padding: 7px 10px;
     text-transform: uppercase;
     margin: 0 0 10px;
+    font-size: 17px;
  }
