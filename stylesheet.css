@@ -95,6 +95,8 @@ input[type="submit"]
     text-transform: uppercase;
     margin: 0 0 10px;
     font-size: 17px;
+    font-family: asap,arial,sans-serif;
+    font-weight: bold;
  }
 
  .flag{
@@ -114,4 +116,6 @@ input[type="submit"]
     text-transform: uppercase;
     margin: 0 0 10px;
     font-size: 17px;
+    font-family: asap,arial,sans-serif;
+    font-weight: bold;
  }
